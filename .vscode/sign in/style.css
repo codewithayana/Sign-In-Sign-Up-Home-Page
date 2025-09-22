@@ -1,0 +1,29 @@
+body {
+  background: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading (h2) styling */
+h2 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
+
+

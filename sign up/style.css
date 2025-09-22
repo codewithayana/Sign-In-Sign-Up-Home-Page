@@ -1,0 +1,24 @@
+/* Background image for the whole page */
+body {
+  background: url('https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  height: 100vh;
+}
+
+/* Center the form */
+.signup-wrapper {
+  height: 100vh;
+}
+
+/* Form box styling */
+.signup-container {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 450px;
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.2);
+}
+
