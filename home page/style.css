@@ -86,3 +86,50 @@ body {
   position: absolute;
   left: 0;
 }
+
+/* Responsive Styles */
+
+/* Tablet screens (up to 768px) */
+@media (max-width: 768px) {
+  .hero {
+    padding: 60px 15px; /* less padding */
+    text-align: center;
+  }
+
+  .hero .tagline {
+    font-size: 0.9rem;
+  }
+
+  .product-card img {
+    height: 200px; /* smaller images */
+  }
+
+  .about-list li {
+    font-size: 0.9rem;
+  }
+}
+
+/* Mobile screens (up to 480px) */
+@media (max-width: 480px) {
+  .hero {
+    padding: 40px 10px;
+  }
+
+  .hero .tagline {
+    font-size: 0.8rem;
+    padding: 4px 10px;
+  }
+
+  .product-card img {
+    height: 180px;
+  }
+
+  .nav-link {
+    font-size: 14px; /* smaller nav links */
+  }
+
+  .about-list li {
+    font-size: 0.85rem;
+  }
+}
+
