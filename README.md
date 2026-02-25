@@ -9,7 +9,7 @@ A **modern and responsive Bootstrap template** featuring **Sign-In, Sign-Up, and
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - **Sign-In Page** – Clean and user-friendly login form.
 - **Sign-Up Page** – Simple registration form for new users.
