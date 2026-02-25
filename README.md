@@ -9,7 +9,7 @@ A **modern and responsive Bootstrap template** featuring **Sign-In, Sign-Up, and
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - **Sign-In Page** – Clean and user-friendly login form.
 - **Sign-Up Page** – Simple registration form for new users.
@@ -61,4 +61,4 @@ cd bootstrap-auth-home
 
 ## 🌟 Show Your Support
 
-If you like this project, give it a ⭐ and share it with others!
+If you like this project, give it a ⭐ it means a lot and share it with others!
