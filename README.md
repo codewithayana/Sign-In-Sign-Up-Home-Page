@@ -61,4 +61,4 @@ cd bootstrap-auth-home
 
 ## 🌟 Show Your Support
 
-If you like this project, give it a ⭐ and share it with others!
+If you like this project, give it a ⭐ it means a lot and share it with others!
